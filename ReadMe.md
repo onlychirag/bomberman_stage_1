@@ -1,7 +1,5 @@
 Welcome to Bomberman!
 ===================
-*Coded by:*
-**Vivek Kaushal**
 
 This **README** file contains :
  1.  Information About the Game
@@ -82,5 +80,3 @@ sudo apt-get install python3
 
 _______________
 
-###Vivek Kaushal
-####20161071
